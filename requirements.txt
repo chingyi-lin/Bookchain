@@ -1,3 +1,4 @@
+six
 Flask
 gunicorn
 Jinja2
